@@ -1,0 +1,19 @@
+.main_back {
+    background-color: rgb(87, 87, 87);
+    
+}
+
+.white {
+    color: rgb(219, 219, 219);
+}
+
+.center {
+    text-align: center;
+}
+
+.imgcntr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
